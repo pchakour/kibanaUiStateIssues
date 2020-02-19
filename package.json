@@ -1,0 +1,15 @@
+{
+  "name": "ui_state_issues",
+  "version": "0.0.1",
+  "kibana": {
+    "version": "7.6.0"
+  },
+  "main": "index.js",
+  "license": "Apache-2.0",
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
